@@ -1,2 +1,1 @@
-# Ayyylmao
-Yes
+Just me learning to code
